@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.bar-code{
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
